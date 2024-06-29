@@ -1,0 +1,1 @@
+This code will use your list of subnets and cidr to calculate out each subnet size automatically and provide the outputs in a list tied to the subnet name. 
